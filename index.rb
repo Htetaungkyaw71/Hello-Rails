@@ -1,3 +1,2 @@
-p "Hello world
-
+p "Hello rails
 "
